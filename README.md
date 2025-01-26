@@ -1,6 +1,6 @@
 # Tableau Dashboards for Sales and Customer Analytics
 
-This project involves the creation of two interactive dashboards using Tableau to analyze and visualize key metrics for both sales performance and customer behavior. The dashboards are designed to assist stakeholders such as sales managers, executives, and marketing teams in making data-driven decisions. The following outlines the purpose, requirements, and features of the dashboards.
+This project involves the creation of two interactive dashboards using Tableau to analyze and visualize key metrics for sales performance and customer behavior. The dashboards are designed to assist stakeholders such as sales managers, executives, and marketing teams make data-driven decisions. The following outlines the purpose, requirements, and features of the dashboards.
 
 ## Sales Dashboard
 
@@ -16,12 +16,12 @@ The sales dashboard provides an overview of key sales metrics and trends, enabli
 ## Customer Dashboard
 
 ### Purpose
-The customer dashboard provides a comprehensive view of customer data, trends, and behaviors, aiding marketing teams and management in understanding customer segments and enhancing customer satisfaction.
+The customer dashboard provides a comprehensive view of customer data, trends, and behaviours, aiding marketing teams and management in understanding customer segments and enhancing customer satisfaction.
 
 ### Key Features
-1. **KPI Overview**: Displays the total number of customers, total sales per customer, and total number of orders for both the current year and the previous year.
+1. **KPI Overview**: Displays the total number of customers, total sales per customer, and total number of orders for the current and previous years.
 2. **Customer Trends**: Shows monthly data for each KPI, identifying the months with the highest and lowest sales.
-3. **Customer Distribution by Number of Orders**: Represents customer behavior by the number of orders placed, providing insights into customer loyalty and engagement.
+3. **Customer Distribution by Number of Orders**: Represents customer behaviour by the number of orders placed, providing insights into customer loyalty and engagement.
 4. **Top 10 Customers by Profit**: Highlights the top 10 customers who have generated the highest profits for the company.
 
 ## Design & Interactivity Requirements
@@ -34,4 +34,4 @@ These interactive features ensure that users can drill down into specific areas 
 
 ## Learning Resources
 
-This Tableau project was learned through [Data with Baraa](https://www.datawithbaraa.com/), a comprehensive platform for mastering Tableau and data visualization skills.
+This project is done with the help of [Data with Baraa](https://www.datawithbaraa.com/).
