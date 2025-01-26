@@ -31,3 +31,7 @@ The customer dashboard provides a comprehensive view of customer data, trends, a
 - **Interactive Charts and Graphs**: Users can filter data interactively by product (category and subcategory) and location (region, state, and city).
 
 These interactive features ensure that users can drill down into specific areas of interest for deeper insights.
+
+## Learning Resources
+
+This Tableau project was learned through [Data with Baraa](https://www.datawithbaraa.com/), a comprehensive platform for mastering Tableau and data visualization skills.
